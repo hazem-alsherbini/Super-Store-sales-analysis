@@ -34,16 +34,22 @@ The dataset contains sales transactions including:
 ## 📷 Dashboard Screenshots
 
 ### 1. Sales Overview
-![Sales Overview](SalesOverview.jpg)
+![Sales Overview](/salesoverview.png)
 
 ### 2. Regional Analysis
-![Regional Analysis](RegionAnalysis.jpg)
+![Regional Analysis](region.png)
 
-### 3. Order Performance
-![Product Analysis](OrderAnalysis.jpg)
+### 3. Product Performance
+![Product Performance](products1.png)
 
-### 4. Data Modeling
-![Data Modeling](DataModeling.jpg)
+### 4. Customer Performance
+![Customer Performance](Customers.png)
+
+### 5. Data Modeling
+![Data Modeling](relations.png)
+
+### 5. Measures
+![Measures](measures.png)
 
 ## 🚀 How to Run
 1. Download the `.pbix` file from this repository.
